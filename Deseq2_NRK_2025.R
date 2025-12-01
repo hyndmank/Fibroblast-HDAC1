@@ -7,8 +7,6 @@ library(RColorBrewer)
 library (vsn)
 library(dplyr)
 library(gplots)
-library(AnnotationDbi)
-library(AnnotationHub)
 
 #this dataset was analyzed with mRatBN7.2.114 so the map is from  GTF file and is now an excel file named GRCr8.114.csv
 
