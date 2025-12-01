@@ -18,3 +18,9 @@ Birmingham, AL 35233
 kellyhyndman@uabmc.edu
 Orcid: 0000-0002-8465-2588
 
+
+
+
+This is the code used to analyze normal rat kidney fibroblasts (NRK49F from ATCC) that were overexpressing human HDAC1 plasmids (Addgene, 13820) or empty vector control (Addgene, 138209_. Subsets of cells were also treated with TGFb1 (2ng/ml) for 24 hours to promote myofibroblast differentiation.  RNA was isolated from these cells and cDNA libraries generated and sequenced with Azenta.
+
+Raw fastqs and count matrixes are available at GEO GSE310601.
